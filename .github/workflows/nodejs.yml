@@ -33,7 +33,7 @@ jobs:
         run: ls -R coverage/
         
       - name: Upload coverage report as artifact
-        uses: actions/upload-artifact@3
+        uses: actions/upload-artifact@8f291994af6d1a2b211e728d3706e14493d9b5a9
         with:
           name: coverage-report
           path: coverage/*
