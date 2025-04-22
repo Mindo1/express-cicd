@@ -8,6 +8,7 @@ This is a simple Node.js app to demonstrate how Git and GitHub Actions CI/CD wor
 
 ```bash
 npm install
+
 npm run start:dev
 
 
