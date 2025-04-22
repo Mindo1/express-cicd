@@ -1,5 +1,3 @@
-import sum from './sum';
-
 const express = require('express');
 const app = express();
 
